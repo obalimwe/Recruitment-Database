@@ -1,8 +1,8 @@
 # Recruitment-Database
-A database normalization project that transforms a denormalized recruitment system into a Third Normal Form (3NF) schema.
+A database normalization project that transforms a denormalized recruitment system into Third Normal Form (3NF) schema.
 
 # Objective: 
-Transform a recruitment database with data redundancy and integrity issues. The original system used a single denormalized table with 12 mixed columns (personal details, contact info, academic records, interview scores), causing storage inefficiency and potential data corruption in a growing recruitment operation
+Transform a recruitment database with data redundancy and integrity issues. The original system used a single denormalized table with 12 columns for (personal details, contact info, academic records and interview scores) causing storage inefficiency and potential data corruption in a growing recruitment operation
 
 # Solution:
 Redesigned the entire database architecture following Third Normal Form (3NF) principles. Decomposed the structure into 12 specialized, interconnected tables including separate entities for applicant demographics, contact details, addresses, academic records, and role applications. Implemented intelligent selection criteria with CGPA thresholds (3.5+ for Data Scientists and Analyst) and experience requirements (3+ years), plus role-specific skill assessments across two interview rounds.

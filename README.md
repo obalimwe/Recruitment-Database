@@ -17,4 +17,4 @@ Documentation: Developed complete SQL DDL scripts and converted final schema to 
 # Impact: 
 Achieved significant improvements in data integrity, storage efficiency, and query performance while creating a scalable foundation for enterprise-level recruitment operations
 
-The live db-diagram can be found <a href="https://dbdiagram.io/d/67b3a441263d6cf9a07aaced">Here!</a>
+The live db-diagram can be found <a href="[https://dbdiagram.io/d/67b3a441263d6cf9a07aaced](https://dbdiagram.io/e/67b3a441263d6cf9a07aaced/684f2a5c3cc77757c8f624d3)">Here!</a>
